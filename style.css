@@ -1,0 +1,11 @@
+@import "./global/header.css";
+@import "./global/reset.css";
+@import "./global/introducao.css";
+@import "./global/experiencia.css";
+@import "./global/footer.css";
+
+
+body{
+  background: linear-gradient(270deg, #080313 96.98%, #080215 98.03%);
+  background-blend-mode: multiply;
+}
